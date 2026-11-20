@@ -1,0 +1,1 @@
+Reinforcement learning trains an agent using rewards and penalties. The agent learns a policy by interacting with an environment.

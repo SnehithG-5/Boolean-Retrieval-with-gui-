@@ -1,0 +1,1 @@
+Natural language processing allows computers to understand text. Tokenization, stemming and lemmatization are common preprocessing steps in language processing.

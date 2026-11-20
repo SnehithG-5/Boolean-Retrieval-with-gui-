@@ -1,0 +1,1 @@
+Deep learning uses neural networks with many layers. Neural networks are trained with gradient descent and backpropagation on large datasets.

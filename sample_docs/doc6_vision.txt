@@ -1,0 +1,1 @@
+Computer vision applies deep learning and convolutional neural networks to images. Image classification and object detection are common tasks.

@@ -1,0 +1,1 @@
+Unsupervised learning finds hidden structure in unlabeled data. Clustering and dimensionality reduction are popular unsupervised techniques.
